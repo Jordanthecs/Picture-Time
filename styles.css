@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+
+.time{
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
