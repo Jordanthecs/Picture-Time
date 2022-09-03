@@ -1,3 +1,4 @@
+// checking something
 const timer = function(){
     let date = new Date("october 11,2022 00:00:00");
     let now = new Date().getTime();
